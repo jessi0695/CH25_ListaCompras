@@ -1,4 +1,4 @@
-// El código va aquí -> 
+
 let txtNombre = document.getElementById("Name");
 let txtNumber = document.getElementById("Number");
 
